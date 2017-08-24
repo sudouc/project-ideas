@@ -1,19 +1,21 @@
-# Project Ideas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Project Ideas [Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 Below is a list of project ideas to take with you that may be fun, profitable or both. Feel free to partner up and host your solutions on our Github, where others can explore your code, provide feedback and feature requests.
 
-## Social
-- **Meme Economy** [UNALLOCATED] - A place to catagorise and track the value of memes over time. Allow users to start with a balance  (Their Reddit Karma for example) and allows them to invest into some kinds/types of memes.
+If you're thinking about what technologies to use for this, please go to https://github.com/sindresorhus/awesome for a full list of technologies.
+
+## Ideas
+- **Meme Economy** ($$) [UNALLOCATED] - A place to catagorise and track the value of memes over time. Allow users to start with a balance  (Their Reddit Karma for example) and allows them to invest into some kinds/types of memes.
   - Uses Google API's
     - Visually Similar Images
 	- Reverse Image Search
 
 
-- **My Clean City** [UNALLOCATED] - A geo-based app to connect people of a high density location. Tool used to combine managing a city, and a social network with people you know, or can get to know.
+- **My Clean City** ($) [UNALLOCATED] - A geo-based app to connect people of a high density location. Tool used to combine managing a city, and a social network with people you know, or can get to know.
   - Identify issues with current location by taking pictures, that can be picked up and shared by publications.
 
 
-- **Waste Recycling App** [UNALLOCATED] - An app to manage the handling of waste recycling, waste quality checking and carbon contents.
+- **Waste Recycling App** ($$$) [UNALLOCATED] - An app to manage the handling of waste recycling, waste quality checking and carbon contents.
     - Allow users to identify wastage.
 	- Allow users to manage their own waste usage.
 
