@@ -5,7 +5,7 @@ Below is a list of project ideas to take with you that may be fun, profitable or
 If you're thinking about what technologies to use for this, please go to [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) for a full list of technologies.
 
 ## Ideas
-- **Meme Economy** ($$) [UNALLOCATED] - A place to catagorise and track the value of memes over time. Allow users to start with a balance  (Their Reddit Karma for example) and allows them to invest into some kinds/types of memes.
+- **Meme Economy** ($$) [Mathias] - A place to catagorise and track the value of memes over time. Allow users to start with a balance  (Their Reddit Karma for example) and allows them to invest into some kinds/types of memes.
   - Uses Google API's
     - Visually Similar Images
 	- Reverse Image Search
